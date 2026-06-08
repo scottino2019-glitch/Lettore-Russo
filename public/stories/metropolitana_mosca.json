@@ -1,0 +1,36 @@
+{
+  "id": "file-metro",
+  "titleRu": "Мо́сковское метро́ (Il metrò)",
+  "titleIt": "Un museo sotterraneo nel cuore della capitale",
+  "type": "story",
+  "level": "A1",
+  "introduction": "La rete metropolitana di Mosca non è solo un mezzo di trasporto rapido, ma un vero scrigno d'arte, letta dal server in tempo reale.",
+  "paragraphs": [
+    {
+      "ru": "Моско́вское метро́ — одно́ из са́мых краси́вых в ми́ре.",
+      "it": "La metropolitana di Mosca è una delle più belle al mondo."
+    },
+    {
+      "ru": "Ста́нции похо́жи на прекра́сные за́лы во дворце́.",
+      "it": "Le stazioni assomigliano a splendide sale di un palazzo."
+    },
+    {
+      "ru": "Там есть мра́мор, бро́нзовые ста́туи, карти́ны и огро́мные лю́стры.",
+      "it": "Lì ci sono marmo, statue di bronzo, dipinti e enormi lampadari."
+    },
+    {
+      "ru": "Поезда́ прихо́дят ка́ждые две мину́ты. Э́то о́чень надёжный тра́нспорт.",
+      "it": "I treni arrivano ogni due minuti. Questo è un trasporto molto affidabile."
+    }
+  ],
+  "vocabulary": [
+    { "ru": "Метро", "it": "Metropolitana", "note": "Sostantivo neutro indeclinabile" },
+    { "ru": "Дворец", "it": "Palazzo", "note": "Al caso prepositivo singolare flette in 'во дворце'" },
+    { "ru": "Статуи", "it": "Statue", "note": "Plurale di статуя" },
+    { "ru": "Надёжный", "it": "Affidabile / sicuro", "note": "Aggettivo qualificativo russo" }
+  ],
+  "grammarFocus": {
+    "topic": "Il pronome indeclinabile Метро",
+    "explanation": "La parola 'метро' è mutuata dal francese ed è una delle poche parole russe neutre completamente indeclinabili. Non cambia mai forma in nessun caso! Es: в metro (nella metro), o intorno al metrò."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "file-tea",
+  "titleRu": "Ру́сский чай (Tè Russo)",
+  "titleIt": "La tradizione calorosa del tè",
+  "type": "story",
+  "level": "A1",
+  "introduction": "La cultura del tè in Russia è sinonimo di amicizia, grandi chiacchierate e dolci prelibati. Questa lettura è servita dalla cartella interna public/stories.",
+  "paragraphs": [
+    {
+      "ru": "В Росси́и о́чень лю́бят пить чай. Э́то стара́я и добра́я тради́ция.",
+      "it": "In Russia amano molto bere il tè. Questa è una vecchia e buona tradizione."
+    },
+    {
+      "ru": "Обы́чно друзья́ собира́ются на ку́хне и говоря́т: «Дава́й попьём ча́ю!»",
+      "it": "Di solito gli amici si riuniscono in cucina e dicono: «Dai, beviamo un po' di tè!»"
+    },
+    {
+      "ru": "Раньше на стол ста́вили большо́й металли́ческий самова́р для горя́чей воды́.",
+      "it": "In passato sulla tavola mettevano un grande samovar metallico per l'acqua calda."
+    },
+    {
+      "ru": "Сейча́с пьют чёрный чай с лимо́ном, мёдом, са́харом и сла́дкими конфе́тами.",
+      "it": "Ora bevono il tè nero con limone, miele, zucchero e dolci caramelle."
+    }
+  ],
+  "vocabulary": [
+    { "ru": "Традиция", "it": "Tradizione", "note": "Sostantivo femminile" },
+    { "ru": "Собираются", "it": "Si riuniscono / si radunano", "note": "Verbo riflessivo" },
+    { "ru": "Давай", "it": "Dai / Facciamo", "note": "Particella esortativa molto frequente" },
+    { "ru": "Самовар", "it": "Samovar", "note": "Il bollitore d'acqua storico russo" }
+  ],
+  "grammarFocus": {
+    "topic": "Il caso Partitivo in -ю (чаю)",
+    "explanation": "Per alcuni alimenti e bevande si usa un genitivo speciale in -ю/-у invece di -я/-а per esprimere l'idea partitiva di 'un po' di'. Ad esempio: 'выпить чаю' significa 'bere dell'altro tè / un goccio di tè'."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Lettore Russo Graduato",
+  "description": "Dialoghi e racconti graduati in lingua russa per principianti con traduzione a fronte, audio TTS e assistenza vocabolario tramite IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
